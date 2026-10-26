@@ -1,0 +1,13 @@
+a=15
+b=2
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a//b)
+print(a%b)
+print(2**3)
+print(9>3)
+print(10>=10)
+print(10==10)
+print(10!=7)
