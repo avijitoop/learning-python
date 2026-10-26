@@ -1,4 +1,5 @@
 # rain=False
+print("Hello Shobuj, Welcome to EUB")
 # if rain== True:
 #     print("Ami school e jabo na")
 # else:
@@ -9,3 +10,4 @@ if age>=18:
     print("Tumi vote dite parbe")
 else:
     print("Tumi vote dite parbe na")
+
