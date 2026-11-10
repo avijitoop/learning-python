@@ -1,6 +1,6 @@
- a="Hello World "
- for letter in a:
-    print(letter)
+a="Hello World "
+for letter in a:
+  print(letter)
 
 
 
